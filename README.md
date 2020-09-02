@@ -14,7 +14,7 @@ Data for this project was obtain from the Coursera assignment instructions. Data
 
 # Analysis File Description
 
-The run_analysis.R can be run as long as setting your working directory to the UCI HAR Dataset folder. Dplyr package was required to run this script.
+The **run_analysis.R** can be run as long as setting your working directory to the UCI HAR Dataset folder. Dplyr package was required to run this script.
 
 Analysis will read all the "test data" and "train data" and merge them into one data set. Each variables were named accordingly, based on the features listed in the features.txt file.
 
