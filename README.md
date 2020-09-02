@@ -18,4 +18,4 @@ The **run_analysis.R** can be run as long as setting your working directory to t
 
 Analysis will read all the "test data" and "train data" and merge them into one data set. Each variables were named accordingly, based on the features listed in the features.txt file.
 
-Using the combined data set, independent tidy data set with the average of each variable for each activity and each subject was created and written into tidy_data.txt file.
+Using the combined data set, independent tidy data set with the average of each variable for each activity and each subject was created and written into **tidy_data.txt** file.
